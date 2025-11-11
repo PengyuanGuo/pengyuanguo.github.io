@@ -34,7 +34,7 @@ VLM-RoboBench thus serves as both a research testbed and a benchmarking framewor
 
 
 ## Links
-- [Code Repository] (https://github.com/ZhengtongXu/vlm_robobench)
+- [Code Repository](https://github.com/ZhengtongXu/vlm_robobench)
 
 ## Additional Information
 - [Presentation Slides](/files/VLM_Robobench_Presentation.pdf)
