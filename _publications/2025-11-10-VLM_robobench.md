@@ -28,9 +28,10 @@ This composition enables an embodied agent capable of **end-to-end, zero-shot ma
 VLM-RoboBench thus serves as both a **research testbed** and a **benchmarking framework** for evaluating the **compositional reasoning, perception, and planning** capabilities of large-scale models in robotics.
 
 ## Demo Video
-{% include video id="s1K26QrExLQ" provider="youtube" %}
-{% include video id="gvgj8-u_RJY" provider="youtube" %}
-{% include video id="q-HV3MPhxLs" provider="youtube" %}
+[Watch Demo Video on YouTube](https://youtu.be/s1K26QrExLQ)
+[Watch Demo Video on YouTube](https://youtu.be/gvgj8-u_RJY)
+[Watch Demo Video on YouTube](https://youtu.be/q-HV3MPhxLs)
+
 
 ## Links
 - [Code Repository] (https://github.com/ZhengtongXu/vlm_robobench)
