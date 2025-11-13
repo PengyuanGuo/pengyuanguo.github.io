@@ -1,5 +1,5 @@
 ---
-title: "Autonomous Navigation \& Object Localization in ROS2 (Course Project)"
+title: "Autonomous Navigation & Object Localization in ROS2 (Course Project)"
 excerpt: "<em>Turtlebot3 • Gazebo • ROS2 • A* • RRT • FSM • PID • LiDAR & Vision Fusion*</em><br/><br/>Designed and implemented a fully autonomous mobile robot system capable of mapping, navigating, and localizing target objects inside an unknown indoor environment."
 collection: portfolio
 ---
