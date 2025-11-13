@@ -1,5 +1,5 @@
 ---
-title: "VLM-Robobench: A VLM-powered Embodied Agent Benchmarking Platform for Robot Manipulation"
+title: "AgenticLab: a Real-world Robot Agent Platform that Can See, Think, and Act"
 collection: publications
 category: Early Version
 permalink: /publication/2025-11-10-VLM_robobench
@@ -14,7 +14,7 @@ citation: '<strong>Pengyuan Guo</strong>, Zhonghao Mai, Zhengtong Xu, Zichen Mia
 
 ## Overview
 
-In this work, we present **VLM-RoboBench**, an **open-source, real-world benchmark platform** that integrates large vision-language models (VLMs) and large language models (LLMs) to enable _zero-shot robotic manipulation_ through reasoning and embodied interaction.
+In this work, we present **AgenticLab**, an **open-source, real-world benchmark platform** that integrates large vision-language models (VLMs) and large language models (LLMs) to enable _zero-shot robotic manipulation_ through reasoning and embodied interaction.
 
 Unlike existing simulation-based benchmarks, VLM-RoboBench focuses on **accessible hardware**, **Open Knowledge-based Models**, and **compositional agentic intelligence**, allowing researchers to study how VLM/LLM models perform in real-world manipulation scenarios.
 

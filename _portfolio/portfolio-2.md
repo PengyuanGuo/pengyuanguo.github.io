@@ -1,5 +1,5 @@
 ---
-title: "Autonomous Navigation \& Object Localization in ROS2 (Course Project)"
+title: "Autonomous Navigation  Object Localization in ROS2 (Course Project)"
 excerpt: "<em>Turtlebot3 • Gazebo • ROS2 • A* • RRT • FSM • PID • LiDAR & Vision Fusion*</em><br/><br/>Designed and implemented a fully autonomous mobile robot system capable of mapping, navigating, and localizing target objects inside an unknown indoor environment."
 collection: portfolio
 ---
@@ -15,8 +15,20 @@ collection: portfolio
   - Constant-speed forward motion for smooth exploration
 
 ### Demo
-<!-- Add GIF file here -->
-![Autonomous Mapping Demo](../images/portfolio/mapping-demo.gif)
+
+<div class="video-wrapper" style="margin: 20px 0;">
+  <video 
+    width="100%" 
+    autoplay 
+    loop 
+    muted 
+    playsinline 
+    style="border-radius: 8px; max-width: 800px;"
+  >
+    <source src="/images/portfolio/597task1_edited.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 ---
 
