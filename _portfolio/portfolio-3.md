@@ -1,6 +1,6 @@
 ---
 title: "Integrated Industrial & Vision-Guided Robotics (Course Project)"
-excerpt: "<em>IsaacSim • CoppeliaSim • TMflow • Fetchcore • ROS • Imitation Learning</em><br/><br/>Programmed and integrated collaborative manipulators and autonomous mobile robots to execute coordinated pick-and-place and material-handling tasks, forming a fully automated workflow.<br/><img src='/images/portfolio/IE_574_1.png' alt='Robotics Project'>"
+excerpt: "<em>IsaacSim • CoppeliaSim • TMflow • Fetchcore • ROS • Imitation Learning</em><br/><br/>Programmed and integrated collaborative manipulators and autonomous mobile robots to execute coordinated pick-and-place and material-handling tasks, forming a fully automated workflow.<br/><img src='/images/portfolio/IE_574_1.png' alt='Robotics Project' style='width: 100%; max-width: 400px; border-radius: 8px;'>"
 collection: portfolio
 ---
 
