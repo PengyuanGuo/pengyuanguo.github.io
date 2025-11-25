@@ -30,13 +30,34 @@ VLM-RoboBench thus serves as both a research testbed and a benchmarking framewor
 ## Demo Videos
 
 ### Demo 1
-<iframe width="100%" height="300" style="max-width: 300px;" src="https://www.youtube.com/embed/s1K26QrExLQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="position: relative; width: 100%; max-width: 400px; padding-top: 56.25%;">
+  <iframe
+    src="https://www.youtube.com/embed/s1K26QrExLQ"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</div>
 
 ### Demo 2
-<iframe width="100%" height="300" style="max-width: 300px;" src="https://www.youtube.com/embed/gvgj8-u_RJY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="position: relative; width: 100%; max-width: 400px; padding-top: 56.25%;">
+  <iframe
+    src="https://www.youtube.com/embed/gvgj8-u_RJY"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</div>
 
 ### Demo 3
-<iframe width="100%" height="300" style="max-width: 300px;" src="https://www.youtube.com/embed/q-HV3MPhxLs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="position: relative; width: 100%; max-width: 400px; padding-top: 56.25%;">
+  <iframe
+    src="https://www.youtube.com/embed/q-HV3MPhxLs"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</div>
 
 
 ## Links
