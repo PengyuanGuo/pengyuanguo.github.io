@@ -28,35 +28,37 @@ This composition enables an embodied agent capable of end-to-end, zero-shot mani
 VLM-RoboBench thus serves as both a research testbed and a benchmarking framework for evaluating the compositional reasoning, perception, and planning capabilities of large-scale models in robotics.
 
 ## Demo Videos
-
+<style>
+h3 {
+  margin-top: 10px !important;
+  margin-bottom: 6px!important;
+}
+</style>
 ### Demo 1
-<div style="position: relative; width: 100%; max-width: 400px; padding-top: 56.25%;">
-  <iframe
-    src="https://www.youtube.com/embed/s1K26QrExLQ"
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    frameborder="0"
-    allowfullscreen>
-  </iframe>
+<div style="margin:0 auto; max-width:400px;">
+  <div style="position:relative; width:100%; padding-top:56.25%;">
+    <iframe src="https://www.youtube.com/embed/s1K26QrExLQ"
+            style="position:absolute; top:0; left:0; width:100%; height:100%;"
+            frameborder="0" allowfullscreen></iframe>
+  </div>
 </div>
 
 ### Demo 2
-<div style="position: relative; width: 100%; max-width: 400px; padding-top: 56.25%;">
-  <iframe
-    src="https://www.youtube.com/embed/gvgj8-u_RJY"
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    frameborder="0"
-    allowfullscreen>
-  </iframe>
+<div style="margin:0 auto; max-width:400px;">
+  <div style="position:relative; width:100%; padding-top:56.25%;">
+    <iframe src="https://www.youtube.com/embed/gvgj8-u_RJY"
+            style="position:absolute; top:0; left:0; width:100%; height:100%;"
+            frameborder="0" allowfullscreen></iframe>
+  </div>
 </div>
 
 ### Demo 3
-<div style="position: relative; width: 100%; max-width: 400px; padding-top: 56.25%;">
-  <iframe
-    src="https://www.youtube.com/embed/q-HV3MPhxLs"
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    frameborder="0"
-    allowfullscreen>
-  </iframe>
+<div style="margin:0 auto; max-width:400px;">
+  <div style="position:relative; width:100%; padding-top:56.25%;">
+    <iframe src="https://www.youtube.com/embed/q-HV3MPhxLs"
+            style="position:absolute; top:0; left:0; width:100%; height:100%;"
+            frameborder="0" allowfullscreen></iframe>
+  </div>
 </div>
 
 
