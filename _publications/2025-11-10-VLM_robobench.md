@@ -27,10 +27,16 @@ Our system features an agentic architecture that unifies symbolic reasoning, vis
 This composition enables an embodied agent capable of end-to-end, zero-shot manipulation — from language goal to physical action — without any task-specific policy training.  
 VLM-RoboBench thus serves as both a research testbed and a benchmarking framework for evaluating the compositional reasoning, perception, and planning capabilities of large-scale models in robotics.
 
-## Demo Video
-[Demo 1](https://youtu.be/s1K26QrExLQ)
-[Demo 2](https://youtu.be/gvgj8-u_RJY)
-[Demo 3](https://youtu.be/q-HV3MPhxLs)
+## Demo Videos
+
+### Demo 1
+<iframe width="100%" height="450" style="max-width: 800px;" src="https://www.youtube.com/embed/s1K26QrExLQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Demo 2
+<iframe width="100%" height="450" style="max-width: 800px;" src="https://www.youtube.com/embed/gvgj8-u_RJY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Demo 3
+<iframe width="100%" height="450" style="max-width: 800px;" src="https://www.youtube.com/embed/q-HV3MPhxLs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Links
