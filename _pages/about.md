@@ -11,7 +11,7 @@ I am a Master’s student in the Robotics program at the College of Engineering,
 
 Previously, I earned a B.S. degree in Mechanical Engineering from Purdue University.
 
-[Download my CV here](/files/PengyuanGuo_CV.pdf)
+[Download my CV here](/files/CV_Pengyuan Guo.pdf)
 
 Research Interests
 ======
