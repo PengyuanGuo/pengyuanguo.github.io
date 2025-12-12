@@ -3,7 +3,7 @@ title: "AgenticLab: a Real-world Robot Agent Platform that Can See, Think, and A
 collection: publications
 category: Early Version
 permalink: /publication/2025-11-10-VLM_robobench
-excerpt: 'This paper is in preparation and will be submitted by the end of Jan. 2026.'
+excerpt: 'This paper is in preparation and will be submitted by the end of Jan. 2026.<br/><a href="https://youtube.com/shorts/fBgpLC1gsh0" target="_blank"><img src="https://img.youtube.com/vi/fBgpLC1gsh0/hqdefault.jpg" alt="Block Stacking Task with VLM Agent" style="width: 100%; max-width: 400px; border-radius: 8px;"></a>'
 date: 2025-11-10
 # venue:
 slidesurl: 
@@ -28,37 +28,35 @@ This composition enables an embodied agent capable of end-to-end, zero-shot mani
 VLM-RoboBench thus serves as both a research testbed and a benchmarking framework for evaluating the compositional reasoning, perception, and planning capabilities of large-scale models in robotics.
 
 ## Demo Videos
-<style>
-h3 {
-  margin-top: 10px !important;
-  margin-bottom: 6px!important;
-}
-</style>
-### Demo 1
-<div style="margin:0 auto; max-width:400px;">
-  <div style="position:relative; width:100%; padding-top:56.25%;">
-    <iframe src="https://www.youtube.com/embed/s1K26QrExLQ"
-            style="position:absolute; top:0; left:0; width:100%; height:100%;"
-            frameborder="0" allowfullscreen></iframe>
-  </div>
-</div>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; align-items: start;">
 
-### Demo 2
-<div style="margin:0 auto; max-width:400px;">
-  <div style="position:relative; width:100%; padding-top:56.25%;">
-    <iframe src="https://www.youtube.com/embed/gvgj8-u_RJY"
-            style="position:absolute; top:0; left:0; width:100%; height:100%;"
-            frameborder="0" allowfullscreen></iframe>
+  <div>
+    <h3 style="margin: 0 0 10px 0;">Demo 1</h3>
+    <div style="position:relative; width:100%; padding-top:56.25%;">
+      <iframe src="https://www.youtube.com/embed/s1K26QrExLQ" 
+              style="position:absolute; top:0; left:0; width:100%; height:100%;" 
+              frameborder="0" allowfullscreen></iframe>
+    </div>
   </div>
-</div>
 
-### Demo 3
-<div style="margin:0 auto; max-width:400px;">
-  <div style="position:relative; width:100%; padding-top:56.25%;">
-    <iframe src="https://www.youtube.com/embed/q-HV3MPhxLs"
-            style="position:absolute; top:0; left:0; width:100%; height:100%;"
-            frameborder="0" allowfullscreen></iframe>
+  <div>
+    <h3 style="margin: 0 0 10px 0;">Demo 2</h3>
+    <div style="position:relative; width:100%; padding-top:56.25%;">
+      <iframe src="https://www.youtube.com/embed/gvgj8-u_RJY" 
+              style="position:absolute; top:0; left:0; width:100%; height:100%;" 
+              frameborder="0" allowfullscreen></iframe>
+    </div>
   </div>
+
+  <div>
+    <h3 style="margin: 0 0 10px 0;">Demo 3</h3>
+    <div style="position:relative; width:100%; padding-top:56.25%;">
+      <iframe src="https://www.youtube.com/embed/q-HV3MPhxLs" 
+              style="position:absolute; top:0; left:0; width:100%; height:100%;" 
+              frameborder="0" allowfullscreen></iframe>
+    </div>
+  </div>
+
 </div>
 
 

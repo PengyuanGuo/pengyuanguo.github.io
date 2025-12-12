@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master’s student in the Robotics program at the College of Engineering, [Purdue University](https://www.purdue.edu/), advised by Prof. [She Yu](https://www.purduemars.com/people). I'm also collaborating with Prof. [Qiang Qiu](https://engineering.purdue.edu/~qqiu/) on my VLM robot manipulation project. My research interests lie in robot learning, compositional generative model, and mechanism design.
+I am a Master’s student in the Robotics program at the College of Engineering, [Purdue University](https://www.purdue.edu/), advised by Prof. [She Yu](https://www.purduemars.com/people). I'm also collaborating with Prof. [Qiang Qiu](https://engineering.purdue.edu/~qqiu/) on my VLM robot manipulation project. My research interests lie in robot learning, compositional generative model, and mechanical design.
 
 Previously, I earned a B.S. degree in Mechanical Engineering from Purdue University.
 
