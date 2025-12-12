@@ -4,8 +4,8 @@ collection: publications
 category: Early Version
 permalink: /publication/2025-11-10-VLM_robobench
 excerpt: 'This paper is in preparation and will be submitted by the end of Jan. 2026.<br/><a href="https://youtube.com/shorts/fBgpLC1gsh0" target="_blank"><img src="https://img.youtube.com/vi/fBgpLC1gsh0/hqdefault.jpg" alt="Block Stacking Task with VLM Agent" style="width: 100%; max-width: 400px; border-radius: 8px;"></a>'
-date: 2025-11-10
-# venue:
+date: 2026-01-31
+venue:In Preprint
 slidesurl: 
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: '<strong>Pengyuan Guo</strong>, Zhonghao Mai, Zhengtong Xu, Zichen Miao, Qiang Qiu, and She Yu. <em>In preparation.</em> 2025.'
