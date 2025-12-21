@@ -1,6 +1,6 @@
 ---
 title: "WBCD Competition at ICRA 2025"
-excerpt: "Represented Purdue MARS lab in the <a href='https://wbcdcompetition.github.io/' target='_blank'>ICRA 2025 WBCD competition</a> and won 3rd place in the Logistics Packing track, along with a $5,000 prize.<br/><img src='/images/portfolio/WBCD_1.jpg' alt='Project thumbnail' style='width: 100%; max-width: 400px; border-radius: 8px;'>"
+excerpt: "Represented Purdue MARS lab in the <a href='https://wbcdcompetition.github.io/' target='_blank'>ICRA 2025 WBCD competition</a> and won 3rd place in the Logistics Packing track, along with a <b>$5,000</b> prize.<br/><img src='/images/portfolio/WBCD_1.jpg' alt='Project thumbnail' style='width: 100%; max-width: 400px; border-radius: 8px;'>"
 collection: portfolio
 ---
 ## Overview
@@ -16,3 +16,5 @@ Represented Purdue MARS lab in the [ICRA 2025 WBCD competition](https://wbcdcomp
 - Contributed to real-world bimanual manipulation dataset collection in Zarr format; validated data quality via Rerun visualization and trained diffusion policies on the Gilbreth cluster.
 - Designed and prototyped custom mechanical connectors in CAD, facilitating modular integration of multiple robotic arms, cameras, and grippers of heterogeneous models.
 - Developed a ROS 1 teleoperation interface for Meta Quest 3 → Galaxea A1 robotic arm, enabling teleoperation as a backup plan.
+
+## Demos

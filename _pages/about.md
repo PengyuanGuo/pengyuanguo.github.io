@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master’s student in the Robotics program at the College of Engineering, [Purdue University](https://www.purdue.edu/), advised by Prof. [She Yu](https://www.purduemars.com/people). I'm also collaborating with Prof. [Qiang Qiu](https://engineering.purdue.edu/~qqiu/) on my VLM robot manipulation project. My research interests lie in robot learning, compositional generative model, and mechanical design.
+I am a Master’s student in the Robotics program at the College of Engineering, [Purdue University](https://www.purdue.edu/), advised by Prof. [She Yu](https://www.purduemars.com/people). I'm also collaborating with Prof. [Qiang Qiu](https://engineering.purdue.edu/~qqiu/) on my AgenticLab project. My research interests lie in robot learning, compositional generative model, and Bio-inspired mechanical design.
 
 Previously, I earned a B.S. degree in Mechanical Engineering from Purdue University.
 
@@ -19,7 +19,7 @@ Research Interests
 
 - **Reasoning, Planning, and Compositionality:** Exploring symbolic and task-level reasoning through PDDL-based planning, compositional representations, and reasoning–perception integration to enhance the generalization and adaptability of embodied agents.
 
-- **Mechanistic Design and Interpretability:** Researching mechanism design, reconfigurable robot structures, and mechanistic interpretability of learning systems. Engaged in creating technologies for multimodal sensing, applied machine learning, and AI-driven robotic manipulation.
+- **Bio-inspired Mechanical Design & Interpretability:** Investigating the robust–adaptive axis in robotics by developing reconfigurable structures and interpretable learning systems that mimic biological strategies for resilience, specifically focusing on appendage loss compensation and visual fixation.
 
 Education
 ======
