@@ -8,7 +8,7 @@ date: 2026-01-31
 # venue:
 slidesurl: 
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: '<strong>Pengyuan Guo</strong>, Zhonghao Mai, Zhengtong Xu, Zichen Miao, Qiang Qiu, and She Yu. <em>In preparation.</em> 2025.'
+citation: '<strong>Pengyuan Guo</strong>, Zhonghao Mai, Zhengtong Xu, Zichen Miao, Qiang Qiu, and She Yu. <em>In preparation.</em> 2026.'
 ---
 **Note:** Manuscript is currently In preparation
 

@@ -11,10 +11,14 @@ Represented Purdue MARS lab in the [ICRA 2025 WBCD competition](https://wbcdcomp
 ## Key Contributions
 
 - Proposed and led the accepted project "A Visuo-tactile Diffusion Policy Architecture for Multimodal Imitation Learning" ([Proposal PDF](/files/WBCD%20Competition%20Proposal.pdf)), among 88 global submissions, with only 15 teams selected as finalists.
-- Achieved Third Prize ($5,000 award) in the Logistics Packing track
 - Coordinated overall team efforts, managed communication with competition organizers, and successfully applied for a travel grant to support team participation.
 - Contributed to real-world bimanual manipulation dataset collection in Zarr format; validated data quality via Rerun visualization and trained diffusion policies on the Gilbreth cluster.
 - Designed and prototyped custom mechanical connectors in CAD, facilitating modular integration of multiple robotic arms, cameras, and grippers of heterogeneous models.
 - Developed a ROS 1 teleoperation interface for Meta Quest 3 → Galaxea A1 robotic arm, enabling teleoperation as a backup plan.
 
-## Demos
+## Reward Highlights
+<img src='/images/portfolio/WBCD_2.jpg' alt='Project thumbnail' style='width: 100%; max-width: 400px; border-radius: 8px;'>
+
+## Project Demos
+
+
