@@ -7,6 +7,8 @@ collection: portfolio
 
 Represented Purdue MARS lab in the [ICRA 2025 WBCD competition](https://wbcdcompetition.github.io/) and won 3rd place in the Logistics Packing track, along with a $5,000 prize. [News](https://engineering.purdue.edu/ECE/News/2025/purdue-engineerings-team-mars-earns-3rd-place-at-prestigious-robotics-competition)
 
+## Reward Highlights
+<img src='/images/portfolio/WBCD_2.jpeg' alt='Project thumbnail' style='width: 100%; max-width: 400px; border-radius: 8px;'>
 
 ## Key Contributions
 
@@ -16,8 +18,6 @@ Represented Purdue MARS lab in the [ICRA 2025 WBCD competition](https://wbcdcomp
 - Designed and prototyped custom mechanical connectors in CAD, facilitating modular integration of multiple robotic arms, cameras, and grippers of heterogeneous models.
 - Developed a ROS 1 teleoperation interface for Meta Quest 3 → Galaxea A1 robotic arm, enabling teleoperation as a backup plan.
 
-## Reward Highlights
-<img src='/images/portfolio/WBCD_2.jpg' alt='Project thumbnail' style='width: 100%; max-width: 400px; border-radius: 8px;'>
 
 ## Project Demos
 
