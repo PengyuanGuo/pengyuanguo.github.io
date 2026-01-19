@@ -1,9 +1,9 @@
 ---
-title: "AgenticLab: a Real-world Robot Agent Platform that Can See, Think, and Act"
+title: "AgenticLab: A Real-world Robot Agent Platform that Can See, Think, and Act"
 collection: publications
 category: Early Version
-permalink: /publication/2025-11-10-VLM_robobench
-excerpt: 'This paper is in preparation and will be submitted by the end of Jan. 2026.<br/><a href="https://youtube.com/shorts/fBgpLC1gsh0" target="_blank"><img src="https://img.youtube.com/vi/fBgpLC1gsh0/hqdefault.jpg" alt="Block Stacking Task with VLM Agent" style="width: 100%; max-width: 400px; border-radius: 8px;"></a>'
+permalink: /publication/2026-01-31-AgenticLab
+excerpt: 'This paper is in preparation and will be submitted by the end of Jan. 2026.<br/><a href="https://drive.google.com/file/d/106X8EPDbHOG4KoH5MGcz5OQ0jq4PcfTq/view?usp=sharing" target="_blank"><img src="/files/AgenticLab_Appearance.JPG" alt="AgenticLab Hardware Platform" style="width: 100%; max-width: 400px; border-radius: 8px;"></a>'
 date: 2026-01-31
 # venue:
 slidesurl: 
@@ -28,37 +28,19 @@ This composition enables an embodied agent capable of end-to-end, zero-shot mani
 VLM-RoboBench thus serves as both a research testbed and a benchmarking framework for evaluating the compositional reasoning, perception, and planning capabilities of large-scale models in robotics.
 
 ## Demo Videos
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; align-items: start;">
 
-  <div>
-    <h3 style="margin: 0 0 10px 0;">Demo 1</h3>
-    <div style="position:relative; width:100%; padding-top:56.25%;">
-      <iframe src="https://www.youtube.com/embed/s1K26QrExLQ" 
-              style="position:absolute; top:0; left:0; width:100%; height:100%;" 
-              frameborder="0" allowfullscreen></iframe>
-    </div>
-  </div>
+**Demo 1**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s1K26QrExLQ" frameborder="0" allowfullscreen style="max-width: 100%;"></iframe>
 
-  <div>
-    <h3 style="margin: 0 0 10px 0;">Demo 2</h3>
-    <div style="position:relative; width:100%; padding-top:56.25%;">
-      <iframe src="https://www.youtube.com/embed/gvgj8-u_RJY" 
-              style="position:absolute; top:0; left:0; width:100%; height:100%;" 
-              frameborder="0" allowfullscreen></iframe>
-    </div>
-  </div>
+**Demo 2**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gvgj8-u_RJY" frameborder="0" allowfullscreen style="max-width: 100%;"></iframe>
 
-  <div>
-    <h3 style="margin: 0 0 10px 0;">Demo 3</h3>
-    <div style="position:relative; width:100%; padding-top:56.25%;">
-      <iframe src="https://www.youtube.com/embed/q-HV3MPhxLs" 
-              style="position:absolute; top:0; left:0; width:100%; height:100%;" 
-              frameborder="0" allowfullscreen></iframe>
-    </div>
-  </div>
+**Demo 3**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q-HV3MPhxLs" frameborder="0" allowfullscreen style="max-width: 100%;"></iframe>
 
-</div>
+<br>
 
+- <strong style="font-size: 1.2em;">[More Videos (in-the-wild)](https://drive.google.com/drive/folders/1FhkyPC2_33m97-Z4PHx9VMXpbwQS6fPe?usp=sharing)</strong>
 
 ## Links
 - [Code Repository](https://github.com/ZhengtongXu/vlm_robobench)

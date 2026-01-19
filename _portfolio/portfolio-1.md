@@ -21,4 +21,8 @@ Represented Purdue MARS lab in the [ICRA 2025 WBCD competition](https://wbcdcomp
 
 ## Project Demos
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5t64pRY1leY" frameborder="0" allowfullscreen style="max-width: 100%;"></iframe>
 
+<br>
+
+- <strong style="font-size: 1.2em;">[More Videos](https://drive.google.com/drive/folders/1PtJJCPN6wpu7L6zznD9Bk77EgXxmGk_3?usp=sharing)</strong>
