@@ -3,7 +3,7 @@ title: "AgenticLab: A Real-world Robot Agent Platform that Can See, Think, and A
 collection: publications
 category: Early Version
 permalink: /publication/2026-01-31-AgenticLab
-excerpt: 'This paper is in preparation and will be submitted by the end of Jan. 2026.<br/><a href="https://drive.google.com/file/d/106X8EPDbHOG4KoH5MGcz5OQ0jq4PcfTq/view?usp=sharing" target="_blank"><img src="/files/AgenticLab_Appearance.JPG" alt="AgenticLab Hardware Platform" style="width: 100%; max-width: 400px; border-radius: 8px;"></a>'
+excerpt: 'This paper is in preparation and will be submitted by the end of Jan. 2026.<br/><a href="https://drive.google.com/file/d/1vl1M2cfSGZrpXoqNoC8F_LmmljfG13yc/view?usp=sharing" target="_blank"><img src="/files/AgenticLab_Appearance.JPG" alt="AgenticLab Hardware Platform" style="width: 100%; max-width: 400px; border-radius: 8px;"></a>'
 date: 2026-01-31
 # venue:
 slidesurl: 
