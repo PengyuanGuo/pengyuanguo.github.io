@@ -13,6 +13,7 @@ Developed an integrated robotics system combining **collaborative manipulators**
 ### Industrial Robotics Integration
 - Programmed and integrated **two collaborative manipulators** and **AMRs** to execute coordinated pick-and-place and material-handling tasks
 - Formed a **fully automated workflow** with seamless robot coordination
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fACIdDe4NxA?start=239" frameborder="0" allowfullscreen style="max-width: 100%;"></iframe>
 
 ### Vision-Guided Manipulation Pipeline
 - Developed in both **simulation** (Isaac Sim / CoppeliaSim) and **real hardware**
