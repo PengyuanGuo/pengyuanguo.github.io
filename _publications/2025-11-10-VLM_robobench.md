@@ -8,27 +8,6 @@ date: 2026-01-31
 
 ---
 
-<pre id="bibtex-citation" style="display: none;">@misc{guo2026agenticlab,
-  title={AgenticLab: A Real-World Robot Agent Platform that Can See, Think, and Act},
-  author={Pengyuan Guo and Zhonghao Mai and Zhengtong Xu and Kaidi Zhang and Heng Zhang and Zichen Miao and Arash Ajoudani and Zachary Kingston and Qiang Qiu and Yu She},
-  year={2026},
-  eprint={2602.01662},
-  archivePrefix={arXiv},
-  primaryClass={cs.RO},
-  url={https://arxiv.org/abs/2602.01662},
-}</pre>
-
-<script>
-function copyBibtex() {
-  var bibtex = document.getElementById('bibtex-citation').textContent;
-  navigator.clipboard.writeText(bibtex).then(function() {
-    alert('BibTeX citation copied to clipboard!');
-  }, function(err) {
-    console.error('Could not copy text: ', err);
-  });
-}
-</script>
-
 ## Overview
 
 In this work, we present **AgenticLab**, an **open-source, real-world benchmark platform** that integrates large vision-language models (VLMs) and large language models (LLMs) to enable _zero-shot robotic manipulation_ through reasoning and embodied interaction.
