@@ -17,11 +17,6 @@ Unlike existing simulation-based benchmarks, AgenticLab focuses on **accessible 
 - <strong style="font-size: 1.2em;">[More Videos (in-the-wild)](https://drive.google.com/drive/folders/1FhkyPC2_33m97-Z4PHx9VMXpbwQS6fPe?usp=sharing)</strong>
 
 
-### Recommended Citation
-
-<div style="background-color: #f6f8fa; padding: 10px; border-radius: 5px; font-size: 0.9em; border: 1px solid #d0d7de;">
-  Pengyuan Guo, Zhonghao Mai, Zhengtong Xu, Kaidi Zhang, Heng Zhang, Zichen Miao, Arash Ajoudani, Zachary Kingston, Qiang Qiu, Yu She. "AgenticLab: A Real-World Robot Agent Platform that Can See, Think, and Act." <i>arXiv preprint arXiv:2602.01662</i> (2026).
-</div>
 
 <div id="bibtex-section" style="margin-top: 20px;">
     <h3>BibTeX</h3>
