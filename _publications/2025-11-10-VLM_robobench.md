@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2026-01-31-AgenticLab
 venue: Under Review
 excerpt: '<div style="display: flex; gap: 15px; align-items: flex-start; flex-wrap: wrap;"><div style="flex: 0 0 100%; max-width: 300px;"><a href="https://drive.google.com/file/d/1IxNuYt15cYBI_d9qOa1-s4-BhJElBFpb/view?usp=drive_link" target="_blank"><video autoplay loop muted playsinline width="100%" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"><source src="/files/AgenticLab_teaser.mp4" type="video/mp4"></video></a></div><div style="flex: 1; min-width: 250px;"><p style="margin-bottom: 5px; font-size: 0.95em;"><b>Pengyuan Guo*</b>, Zhonghao Mai*, Zhengtong Xu*, Kaidi Zhang, Heng Zhang, Zichen Miao, Arash Ajoudani, Zachary Kingston, Qiang Qiu, Yu She</p><p style="margin-bottom: 5px; font-style: italic; color: #666;">Under Review, 2026</p><p style="font-size: 0.9em;"><a href="https://arxiv.org/pdf/2602.01662">arXiv</a> / <a href="#">website(soon)</a> / <a href="#">code(soon)</a> / <a href="/publication/2026-01-31-AgenticLab">bibtex</a></p></div></div>'
-citation: <b>Pengyuan Guo*</b>, Zhonghao Mai*, Zhengtong Xu*, Kaidi Zhang, Heng Zhang, Zichen Miao, Arash Ajoudani, Zachary Kingston, Qiang Qiu, Yu She
+# citation: <b>Pengyuan Guo*</b>, Zhonghao Mai*, Zhengtong Xu*, Kaidi Zhang, Heng Zhang, Zichen Miao, Arash Ajoudani, Zachary Kingston, Qiang Qiu, Yu She
 date: 2026-01-31
 
 ---
