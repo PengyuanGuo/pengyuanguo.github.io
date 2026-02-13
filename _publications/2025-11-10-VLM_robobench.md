@@ -1,13 +1,10 @@
 ---
 title: "AgenticLab: A Real-world Robot Agent Platform that Can See, Think, and Act"
-collection: Under Review, 2026
 
 permalink: /publication/2026-01-31-AgenticLab
-excerpt: '<br/><a href="https://drive.google.com/file/d/1vl1M2cfSGZrpXoqNoC8F_LmmljfG13yc/view?usp=sharing" target="_blank"><video autoplay loop muted playsinline width="100%"><source src="/files/AgenticLab_teaser.mp4" type="video/mp4"></video></a>'
+excerpt: '<br/><a href="https://drive.google.com/file/d/1IxNuYt15cYBI_d9qOa1-s4-BhJElBFpb/view?usp=drive_link" target="_blank"><video autoplay loop muted playsinline style="width: 100%; max-width: 400px; border-radius: 8px;"><source src="/files/AgenticLab_teaser.mp4" type="video/mp4"></video></a><br/><br/><a href="https://arxiv.org/pdf/2602.01662" class="btn btn--info"><i class="fas fa-file-pdf"></i> arXiv</a> <a href="#" class="btn btn--info"><i class="fas fa-video"></i> Website(Soon)</a> <a href="#" class="btn btn--info"><i class="fab fa-github"></i> Code(Soon)</a> <a href="#" class="btn btn--info" onclick="copyBibtex(); return false;"><i class="fas fa-book"></i> BibTeX</a>'
 date: 2026-01-31
-# venue:
-slidesurl: 
-paperurl: 'https://arxiv.org/pdf/2602.01662'
+venue: Under Review
 ---
 
 <a href="https://arxiv.org/pdf/2602.01662" class="btn btn--info"><i class="fas fa-file-pdf"></i> arXiv</a>
