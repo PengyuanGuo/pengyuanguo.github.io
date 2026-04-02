@@ -11,8 +11,6 @@ I am a Master’s student in the Robotics program at the College of Engineering,
 
 Previously, I earned a B.S. degree in Mechanical Engineering from Purdue University.
 
-[Download my CV here](/files/CV_Pengyuan Guo.pdf)
-
 Research Interests
 ======
 - **Robot Learning and Embodied Intelligence:** Scalable robot learning paradigms based on vision, tactile, and 3D perception, emphasizing multimodal fusion for robust manipulation and control.
@@ -25,4 +23,4 @@ Education
 ======
 - **M.S. in Robotics**, Purdue University (2024 Aug. - 2025 Dec.)
 - **B.S. in Mechanical Engineering** Purdue University (2015 - 2018)
-- **B.S. in Theoretical and Applied Mechanics** Sun-Yat Sen University (2013 - 2018)
+- **B.S. in Theoretical and Applied Mechanics** Sun-Yat Sen University (2013 - 2015)
